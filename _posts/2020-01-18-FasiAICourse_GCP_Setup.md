@@ -14,3 +14,5 @@ The first one definitely solved some issues connecting to the vm.
 I hope the creating multiple instances (though I run only one at a time since I only have 1 gpu quota) each with 200GB of disk wont charge me ridiculous amount of money.
 
 Thats it for now. The connection to the remote host (instance) just lost while typing this post. What a bummer.
+
+Now able to use the sync function of github desktop in my PC
